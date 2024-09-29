@@ -101,6 +101,17 @@ int parseString(char **rules, int **table, char *string)
     top = push(top, non_terminals[0].name);
     for (int i = 0; i < strlen(string); i++)
     {
+        for (int j = 0; j < t_num; j++)
+        {
+            if (string[i] == terminals[j])
+            {
+                break;
+            }
+            if (j == t_num - 1)
+            {
+                return 0;
+            }
+        }
         int index_t = position_t(string[i]);
         while ((top->data >= 'A') && (top->data <= 'Z'))
         {
