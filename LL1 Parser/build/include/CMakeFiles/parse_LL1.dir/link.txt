@@ -1,0 +1,2 @@
+/usr/bin/ar qc libparse_LL1.a CMakeFiles/parse_LL1.dir/parse_LL1.c.o
+/usr/bin/ranlib libparse_LL1.a
