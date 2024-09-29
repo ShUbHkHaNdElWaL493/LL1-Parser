@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfirst_follow.a CMakeFiles/first_follow.dir/first_follow.c.o
+/usr/bin/ranlib libfirst_follow.a
