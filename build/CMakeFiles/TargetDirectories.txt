@@ -1,8 +1,0 @@
-/home/shubh_khandelwal/Documents/C/LL1 Parser/build/CMakeFiles/LL1_parser.dir
-/home/shubh_khandelwal/Documents/C/LL1 Parser/build/CMakeFiles/edit_cache.dir
-/home/shubh_khandelwal/Documents/C/LL1 Parser/build/CMakeFiles/rebuild_cache.dir
-/home/shubh_khandelwal/Documents/C/LL1 Parser/build/include/CMakeFiles/datatypes.dir
-/home/shubh_khandelwal/Documents/C/LL1 Parser/build/include/CMakeFiles/first_follow.dir
-/home/shubh_khandelwal/Documents/C/LL1 Parser/build/include/CMakeFiles/parse_LL1.dir
-/home/shubh_khandelwal/Documents/C/LL1 Parser/build/include/CMakeFiles/edit_cache.dir
-/home/shubh_khandelwal/Documents/C/LL1 Parser/build/include/CMakeFiles/rebuild_cache.dir

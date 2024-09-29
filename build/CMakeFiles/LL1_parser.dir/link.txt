@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/LL1_parser.dir/LL1_parser.c.o -o LL1_parser  include/libparse_LL1.a include/libfirst_follow.a include/libdatatypes.a
