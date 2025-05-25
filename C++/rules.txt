@@ -1,0 +1,5 @@
+S=AB
+A=aA
+A=#
+B=bB
+B=#
